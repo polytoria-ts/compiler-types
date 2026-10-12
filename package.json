@@ -2,6 +2,10 @@
 	"name": "@polytoria-ts/compiler-types",
 	"version": "3.0.6",
 	"description": "",
+	"repository": {
+		"type": "git",
+		"url": "github.com/polytoria-ts/compiler-types.git"
+	},
 	"main": "types/core.d.ts",
 	"types": "types/core.d.ts",
 	"scripts": {
