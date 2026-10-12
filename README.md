@@ -1,1 +1,1 @@
-# @rbxts/compiler-types
+# @polytoria-ts/compiler-types
